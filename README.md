@@ -8,15 +8,15 @@ The purpose of this project is to integrate the Ethereum blockchain network into
 
 The first file used is fintech_finder.py. This file will import several functions from the second file, crypto_wallet.py. To run the app, type 'streamlit run fintech_finder.py' in the terminal and your browser will open to a new webpage. On this webpage, you can select the candidate you'd like to hire, then enter the number of hours you'd like to hire them for. Clicking the 'Send Transaction' button will signa dn send the transaction with your Ethereum account information. You can then inspect the transaction in Ganache. The transaction page should look like the following screenshot:
 
-![transaction](https://raw.githubusercontent.com/tycastleberry/Challenge18/main/pychain.png)
+![transaction](https://raw.githubusercontent.com/tycastleberry/Challenge19/main/Images/transaction.png)
 
 The transaction details can then be viewed. They appear as the following:
 
-![transaction details]()
+![transaction details](https://raw.githubusercontent.com/tycastleberry/Challenge19/main/Images/transaction_details.png)
 
 Finally, the account balance after the transaction has taken place confirms the Ether was paid from your account:
 
-![balance]()
+![balance](https://raw.githubusercontent.com/tycastleberry/Challenge19/main/Images/balance.png)
 
 ---
 
